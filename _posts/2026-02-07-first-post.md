@@ -57,10 +57,3 @@ git status
 git add .
 git commit -m "Test post"
 git push
-
-
-
-library(tidyverse)
-
-df <- tibble(x = 1:10, y = rnorm(10))
-ggplot(df, aes(x, y)) + geom_point()
