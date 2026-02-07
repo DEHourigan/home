@@ -1,8 +1,8 @@
 ---
-title: "Hello World: First Local Blog Post"
+title: "A blog beginning."
 date: 2026-02-07
 categories: [blog]
-tags: [github-pages, jekyll, testing]
+tags: [blog]
 ---
 
 Hello World My name is Sal
