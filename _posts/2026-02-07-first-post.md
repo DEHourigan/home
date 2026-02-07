@@ -3,7 +3,6 @@ title: "Hello World: First Local Blog Post"
 date: 2026-02-07
 categories: [blog]
 tags: [github-pages, jekyll, testing]
-published: true
 ---
 
 Hello World My name is Sal
