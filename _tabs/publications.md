@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-Below is a list of my peer-reviewed publications. You can also view my profiles on [Google Scholar](https://scholar.google.com/citations?user=vjoE6OUAAAAJ&hl=en&oi=ao) or [ORCID](https://orcid.org/0000-0003-0278-7858).
+Below is a list of my peer-reviewed publications. You can also view my profiles on [Google Scholar](https://scholar.google.com/citations?user=vjoE6OUAAAAJ&hl=en&oi=ao) or [ORCID](https://orcid.org/0000-0003-0278-7858) or [ResearchGate Profile](https://www.researchgate.net/profile/David_Hourigan).
 
 ---
 
