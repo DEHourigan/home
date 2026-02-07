@@ -80,4 +80,4 @@ Below is a list of my peer-reviewed publications. You can also view my profiles 
 
 - 📊 [Google Scholar Profile](https://scholar.google.com/citations?user=vjoE6OUAAAAJ&hl=en&oi=ao)
 - 🆔 [ORCID Profile](https://orcid.org/0000-0003-0278-7858)
-- 🔬 [ResearchGate Profile](https://researchgate.net/)
+- 🔬 [ResearchGate Profile](https://www.researchgate.net/profile/David_Hourigan)
