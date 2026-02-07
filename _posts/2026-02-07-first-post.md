@@ -1,8 +1,8 @@
 ---
 title: "A blog beginning."
 date: 2026-02-07
-categories: [blog]
-tags: [blog]
+categories: [Posts]
+tags: [github-pages, jekyll]
 ---
 
 Hello World My name is Sal
