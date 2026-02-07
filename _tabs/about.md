@@ -40,6 +40,17 @@ I'm always interested in discussing research collaborations, scientific ideas, o
 🐦 [@MrDavidHourigan](https://twitter.com/MrDavidHourigan)  
 💻 [GitHub](https://github.com/DEHourigan)
 
+# Outreach and other roles
+
+## International Scientific Association for Probiotics and Prebiotics (ISAPP) Students and Fellows Association (SFA)
+- 2025- Past-president
+- 2024-2025 President
+- 2023-2024 Secretary
+- 2022-2023 Director of Communications and Development
+
+
+## Microbiology Society
+- 2025 Early Career Co-Chair at Microbiology Society Annual meeting in Ireland.
 ---
 
-*This site is a space to share my research journey, thoughts on microbiology, and occasional updates from the lab.*
+*This site is a space to share my research journey, thoughts on microbiology, and occasional updates.*
