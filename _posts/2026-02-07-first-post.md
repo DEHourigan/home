@@ -41,7 +41,6 @@ right here.
   - Another nested item
 - Item three
 
-![Test image](/assets/images/lake_louise_1.JPG)
 
 ### Ordered
 1. First
